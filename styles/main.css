@@ -52,7 +52,14 @@
     position: relative;
 } */
 
-.bi {
-    width: 24;
-    height: 24;
+
+/* 去除a標籤的底線和超連結變色 */
+
+a.no-dash {
+    text-decoration: none;
+    color: black;
+}
+
+a.no-dash:hover {
+    color: #0e76a8;
 }
