@@ -1,0 +1,53 @@
+.medium {
+    content: "J4我的技術筆記ㄟ(^A^)ㄏ";
+}
+
+.bi-linkedin {
+    color: #0e76a8;
+}
+
+.bi-medium {
+    color: #ffffff;
+}
+
+.bi-github {
+    color: #f5f5f5;
+}
+
+.bi-envelope {
+    color: #34a853;
+}
+
+.navbar-space {
+    margin-left: 40%;
+}
+
+.navbar-child-space {
+    margin-left: 8px;
+}
+
+.nav-bar-search-space {
+    margin-left: 10%;
+}
+
+
+/* .navbar {
+    position: fixed;
+    float: left;
+} */
+
+
+/* .side-bar {
+    position: sticky;
+    float: left;
+    min-height: calc(100vh - 0px);
+} */
+
+
+/* .side-bar a:hover {
+    background-color: aliceblue;
+}
+
+.main-content {
+    position: relative;
+} */
