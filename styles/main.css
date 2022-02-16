@@ -63,3 +63,11 @@ a.no-dash {
 a.no-dash:hover {
     color: #0e76a8;
 }
+
+main.border-boxs {
+    box-sizing: border-box;
+    /* width: 90%; */
+    /* margin: 20px 5% 10px 5%; */
+    background-color: #8dd9fca1;
+    /* padding: 40px 40px 10px 40px; */
+}
